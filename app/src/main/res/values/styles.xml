@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="mainLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">top</item>
+    </style>
+    <style name="normalTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="percentWidth10HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.1</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth20HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.2</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth30HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.3</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth40HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.4</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth50HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth60HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.6</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth70HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.7</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth80HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.8</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth90HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">0.9</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="percentWidth100HeightFill">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+</resources>

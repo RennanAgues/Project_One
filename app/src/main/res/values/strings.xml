@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Albums</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_collection_by_filter">ActivitySelectCollectionByFilter</string>
+
+    <string name="country">País</string>
+    <string name="style">Estilo</string>
+    <string name="brand">Marca</string>
+    <string name="title_activity_activity_country">ActivityCountry</string>
+    <string name="title_activity_activity_select_item_choose">ActivitySelectItemChoose</string>
+</resources>
